@@ -1662,14 +1662,14 @@ input, select, textarea {
 		}
 
 
-/* .project-title {
+.project-title {
 	display: flex;
     justify-content: center;
     text-decoration: underline;
-} */
+}
 
-/* .social-links {
+.social-links {
 	display: flex;
     justify-content: center;
     margin-bottom: 5px;
-} */
+}
