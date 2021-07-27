@@ -1662,7 +1662,7 @@ input, select, textarea {
 		}
 
 
-.project-title {
+/* .project-title {
 	display: flex;
     justify-content: center;
     text-decoration: underline;
@@ -1672,4 +1672,16 @@ input, select, textarea {
 	display: flex;
     justify-content: center;
     margin-bottom: 5px;
+} */
+
+.project-title{
+	display: flex;
+	justify-content: center;
+	text-decoration: underline;
+}
+
+.social-links{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5px;
 }
