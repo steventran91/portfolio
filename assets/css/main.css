@@ -701,6 +701,7 @@ input, select, textarea {
 		}
 
 			.image.main img {
+				margin-bottom: -28px;
 				width: 100%;
 			}
 
@@ -1659,3 +1660,16 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+.project-title {
+	display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.social-links {
+	display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+}
